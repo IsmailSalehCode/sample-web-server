@@ -1,7 +1,7 @@
 {
   "name": "html-site-with-sample-imgs",
   "version": "1.0.0",
-  "description": "Sample web gallery",
+  "description": "Sample web gallery used for demonstrating CORS",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js",
